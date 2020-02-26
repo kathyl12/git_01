@@ -20,10 +20,16 @@ This is verse 1
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+<<<<<<< HEAD
  
+=======
+ This is verse 2
+>>>>>>> midTwo
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+This is verse 3
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
